@@ -756,6 +756,10 @@
                 <div class="kpi-label">Big Mon Units</div>
             </div>
             <div class="kpi-card">
+                <div class="kpi-value">13</div>
+                <div class="kpi-label">F5S Units</div>
+            </div>
+            <div class="kpi-card">
                 <div class="kpi-value">#3</div>
                 <div class="kpi-label">DCM Stock Rank</div>
             </div>
@@ -787,6 +791,14 @@
                 <div class="chart-card">
                     <h3>By Body Style</h3>
                     <canvas id="bodyChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>By Finish / Stain</h3>
+                    <canvas id="finishChart"></canvas>
+                </div>
+                <div class="chart-card">
+                    <h3>By Nut Width</h3>
+                    <canvas id="nutChart"></canvas>
                 </div>
             </div>
         </div>
@@ -1126,6 +1138,34 @@
             options: pieOpts
         });
         charts.push({ chart: bodyChart, type: 'pie', chartId: 'body', section: 'market' });
+
+        // 4b. Finish / Stain
+        const finishLabels = ['Sunburst / Standard', 'Icelandic Brown', 'Cherry / Cherryburst', 'Black Top', 'Amber', 'Dark Leatherburst'];
+        const finishData = [46, 5, 5, 4, 4, 2];
+        originalLabels['finish'] = finishLabels;
+        const finishChart = new Chart(document.getElementById('finishChart'), {
+            type: 'doughnut',
+            data: {
+                labels: finishLabels.map((l, i) => `${l} (${finishData[i]})`),
+                datasets: [{ data: finishData, backgroundColor: tc.chart.slice(0, 6), borderWidth: 0, hoverOffset: 6 }]
+            },
+            options: pieOpts
+        });
+        charts.push({ chart: finishChart, type: 'pie', chartId: 'finish', section: 'market' });
+
+        // 4c. Nut Width
+        const nutLabels = ['Standard', 'Wide Nut'];
+        const nutData = [54, 12];
+        originalLabels['nut'] = nutLabels;
+        const nutChart = new Chart(document.getElementById('nutChart'), {
+            type: 'doughnut',
+            data: {
+                labels: nutLabels.map((l, i) => `${l} (${nutData[i]})`),
+                datasets: [{ data: nutData, backgroundColor: [tc.chart[0], tc.chart[2]], borderWidth: 0, hoverOffset: 6 }]
+            },
+            options: pieOpts
+        });
+        charts.push({ chart: nutChart, type: 'pie', chartId: 'nut', section: 'market' });
 
         // 5. Dealer Stock (horizontal bar — left edge sharp, right edge rounded)
         const dealerNames = [
