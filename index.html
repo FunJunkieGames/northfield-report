@@ -616,6 +616,202 @@
             color: var(--red);
         }
 
+        /* ========== EXPANDABLE DEALER ROWS ========== */
+        .dealer-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: var(--text-muted);
+            font-size: 13px;
+            padding: 2px 4px;
+            margin-right: 6px;
+            transition: transform 0.2s, color 0.15s;
+            display: inline-flex;
+            align-items: center;
+            vertical-align: middle;
+            border-radius: 3px;
+        }
+
+        .dealer-toggle:hover {
+            color: var(--text);
+            background: var(--surface-2);
+        }
+
+        .dealer-toggle.expanded {
+            transform: rotate(90deg);
+        }
+
+        .dealer-detail-row td {
+            padding: 0 !important;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .dealer-detail-wrap {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.35s ease;
+        }
+
+        .dealer-detail-row.open .dealer-detail-wrap {
+            max-height: 600px;
+        }
+
+        .dealer-detail-inner {
+            padding: 12px 24px 16px 52px;
+        }
+
+        .dealer-detail-inner table {
+            width: 100%;
+            font-size: 13px;
+        }
+
+        .dealer-detail-inner thead th {
+            font-size: 10px;
+            padding: 6px 10px;
+            background: var(--surface-2);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .dealer-detail-inner tbody td {
+            padding: 6px 10px;
+            font-size: 13px;
+            border-bottom: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+        }
+
+        .dealer-detail-inner tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .dealer-link {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.15s;
+        }
+
+        .dealer-link:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        .collapse-all-btn {
+            display: none;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            font-family: var(--font-body);
+            font-size: 11px;
+            padding: 4px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: auto;
+            transition: color 0.15s, background 0.15s, border 0.15s;
+            letter-spacing: 0.3px;
+        }
+
+        .collapse-all-btn:hover {
+            color: var(--text);
+            background: var(--surface-2);
+        }
+
+        .collapse-all-btn.visible {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* ========== COMPLETE INVENTORY SECTION ========== */
+        .inventory-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .inventory-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+            transition: background 0.4s, border 0.4s;
+        }
+
+        .inventory-card-header {
+            padding: 14px 18px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .inventory-card-name {
+            font-family: var(--font-heading);
+            font-size: 15px;
+            font-weight: 700;
+        }
+
+        .inventory-card-name a {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.15s;
+        }
+
+        .inventory-card-name a:hover {
+            border-bottom-color: var(--accent);
+        }
+
+        .inventory-card-meta {
+            font-size: 11px;
+            color: var(--text-muted);
+        }
+
+        .inventory-card-loc {
+            font-size: 12px;
+            color: var(--text-muted);
+            padding: 0 18px;
+            margin-top: -2px;
+            margin-bottom: 4px;
+        }
+
+        .inventory-card table {
+            width: 100%;
+            font-size: 13px;
+        }
+
+        .inventory-card thead th {
+            font-size: 10px;
+            padding: 6px 14px;
+            background: var(--surface-2);
+            border-bottom: 1px solid var(--border);
+            text-align: left;
+        }
+
+        .inventory-card tbody td {
+            padding: 7px 14px;
+            border-bottom: 1px solid color-mix(in srgb, var(--border) 50%, transparent);
+        }
+
+        .inventory-card tbody tr:last-child td {
+            border-bottom: none;
+        }
+
+        .inventory-card .dcm-badge {
+            display: inline-block;
+            background: color-mix(in srgb, var(--chart-dcm) 15%, transparent);
+            color: var(--chart-dcm);
+            font-size: 10px;
+            font-weight: 600;
+            padding: 1px 6px;
+            border-radius: 3px;
+            margin-left: 6px;
+        }
+
+        @media (max-width: 768px) {
+            .inventory-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
         /* ========== INSIGHTS ========== */
         .insight-grid {
             display: grid;
@@ -835,8 +1031,9 @@
         </div>
 
         <!-- Dealer Rankings Table -->
-        <div class="section">
-            <div class="section-title">Dealer Rankings</div>
+        <div class="section" id="rankingsSection">
+            <div class="section-title">Dealer Rankings<button class="collapse-all-btn" id="collapseAllBtn"
+                    title="Collapse all expanded rows">▾ Collapse All</button></div>
             <div class="table-wrap">
                 <table>
                     <thead>
@@ -928,6 +1125,12 @@
                     </tbody>
                 </table>
             </div>
+        </div>
+
+        <!-- Complete Dealer Inventory -->
+        <div class="section">
+            <div class="section-title">Complete Dealer Inventory</div>
+            <div class="inventory-grid" id="inventoryGrid"></div>
         </div>
 
         <!-- DCM Position -->
@@ -1265,6 +1468,149 @@
         });
         charts.push({ chart: avgPriceChart, type: 'bar', dcmIndex: dcmPriceIdx });
 
+        // ========== DEALER INVENTORY DATA ==========
+        const dealerInventory = {
+            'Acoustic Music Works': {
+                url: 'https://acousticmusicworks.com/collections/northfield-mandolins',
+                items: [
+                    { model: 'Big Mon', variant: 'Limited', price: '$6,995', specs: 'Special Engelmann, One-Piece Figured Maple Back' },
+                    { model: 'Big Mon', variant: 'Adirondack Wide Nut', price: '$5,795', specs: 'Adirondack Spruce, Wide Nut' },
+                    { model: 'Big Mon', variant: 'Sunburst Wide Nut', price: '$5,695', specs: 'Special Engelmann, Maple' },
+                    { model: 'Big Mon', variant: 'Black Top Wide Nut', price: '$5,695', specs: 'Engelmann, Figured Maple' },
+                    { model: 'F5S', variant: 'Left-Handed', price: '$4,495', specs: 'Engelmann, Maple, Left-Handed' },
+                    { model: 'A-Style Special', variant: 'A5 Wide Nut', price: '$3,995', specs: 'Italian Alpine Spruce, Wide Nut' },
+                    { model: 'A-Style Special', variant: 'A5', price: '$3,995', specs: 'Premium Italian Alpine Spruce' },
+                    { model: 'F5S', variant: 'Adirondack Wide Nut', price: '$3,995', specs: 'Adirondack, Wide Nut' },
+                    { model: 'F5S', variant: 'Black', price: '$3,995', specs: 'Adirondack, Black Finish' },
+                    { model: 'F2 Oval Hole', variant: 'Standard', price: '$3,795', specs: 'Adirondack, Figured Maple' },
+                    { model: 'Octave Mandolin', variant: 'WaveLength AT3', price: '$3,495', specs: 'Adirondack' },
+                    { model: 'Model M', variant: 'A5 Wide Nut', price: '$3,195', specs: 'Adirondack, Wide Nut' },
+                ]
+            },
+            'Penny Lane Music Emporium': {
+                url: 'https://pennylaneemporium.com/product-category/mandolins/northfield-mandolins/',
+                items: [
+                    { model: 'Artist Series', variant: 'Custom Icelandic Brown', price: '$7,295', specs: 'Custom Finish' },
+                    { model: 'Big Mon', variant: 'Limited Wide Nut', price: '$6,995', specs: 'Engelmann, Wide Nut' },
+                    { model: 'Artist Series', variant: 'NFA-F51E', price: '$6,995', specs: 'Acoustic' },
+                    { model: 'Artist Series', variant: 'Dark Cherry', price: '$6,995', specs: 'Dark Cherry Finish' },
+                    { model: 'Octave Mandolin', variant: 'Archtop AT2', price: '$5,495', specs: 'Archtop' },
+                    { model: 'F5S', variant: 'Sunburst Wide Nut', price: '$3,995', specs: 'Wide Nut' },
+                    { model: 'A-Style Special', variant: 'A4 Dark Cherry', price: '$3,995', specs: 'Italian Spruce, Oval Hole' },
+                    { model: 'F5S', variant: 'Adirondack', price: '$3,995', specs: 'F-style' },
+                    { model: 'Model M', variant: 'Dark Leather Burst', price: '$2,995', specs: 'A-style' },
+                ]
+            },
+            'Dry Creek Music': {
+                url: 'https://drycreekmusic.com/collections/northfield-mandolins',
+                items: [
+                    { model: 'Big Mon', variant: 'K&K Pickup Wide Nut', price: '$5,895', specs: 'Engelmann, K&K Pickup, Wide Nut' },
+                    { model: 'Big Mon', variant: 'Icelandic Brown', price: '$5,695', specs: 'Engelmann, Icelandic Brown' },
+                    { model: 'Big Mon', variant: 'Italian Spruce', price: '$5,695', specs: 'Italian Spruce Top' },
+                    { model: 'F5S', variant: 'Engelmann', price: '$3,995', specs: 'Engelmann, Sunburst' },
+                    { model: 'F2 Oval Hole', variant: 'Wide Nut', price: '$3,995', specs: 'Red Spruce, Wide Nut' },
+                    { model: 'F2 Oval Hole', variant: 'Cherryburst', price: '$3,995', specs: 'Red Spruce, Cherryburst' },
+                    { model: 'F2 Oval Hole', variant: 'Flame Maple', price: '$3,995', specs: 'Red Spruce, Flame Maple' },
+                ]
+            },
+            'Elderly Instruments': {
+                url: 'https://www.elderly.com/brands/northfield-workshop.html',
+                items: [
+                    { model: 'Big Mon', variant: 'Engelmann', price: '$5,695', specs: 'Engelmann Top' },
+                    { model: 'Big Mon', variant: 'Adirondack', price: '$5,695', specs: 'Adirondack Top' },
+                    { model: 'Big Mon', variant: 'Adirondack Wide Nut', price: '$5,695', specs: 'Adirondack, Wide Nut' },
+                    { model: 'Octave Mandolin', variant: 'Archtop AT1', price: '$4,995', specs: 'Mahogany Archtop' },
+                    { model: 'F2 Oval Hole', variant: 'Standard', price: '$3,995', specs: 'S-Series' },
+                    { model: 'F2 Oval Hole', variant: 'Blacktop', price: '$3,995', specs: 'Black Gloss Top' },
+                    { model: 'A-Style Special', variant: 'A5 Amber', price: '$3,995', specs: 'Amber Gloss, A-style' },
+                ]
+            },
+            'Morgan Music': {
+                url: 'https://www.morganmusic.com/search?q=northfield',
+                items: [
+                    { model: 'Artist Series', variant: 'NFA-F52A', price: '$7,495', specs: '2-Bar, Adirondack, Mike Marshall' },
+                    { model: 'Octave Mandolin', variant: 'Archtop AT2', price: '$5,495', specs: 'Archtop' },
+                    { model: 'Big Mon', variant: 'Icelandic Brown', price: '$5,395', specs: 'Larger Body' },
+                    { model: 'F5S', variant: 'Wide Nut Sunburst', price: '$3,995', specs: 'Engelmann, 1-3/16" Nut' },
+                    { model: 'F5S', variant: 'Standard', price: '$3,995', specs: 'Standard F5-S' },
+                    { model: 'A-Style Special', variant: 'A5', price: '$3,995', specs: 'A-style' },
+                ]
+            },
+            'Banjo Ben General Store': {
+                url: 'https://store.banjobenclark.com/pages/search-results-page?q=Northfield',
+                items: [
+                    { model: 'Big Mon', variant: 'Limited Sunburst', price: '$6,995', specs: 'Premium Wood Selection' },
+                    { model: 'Big Mon', variant: 'Two-Piece Back', price: '$5,695', specs: 'Standard' },
+                    { model: 'Big Mon', variant: 'Custom Black Top', price: '$5,695', specs: 'Black Top Finish' },
+                    { model: 'Big Mon', variant: 'Wide-Nut Amber', price: '$5,695', specs: '1-1/8" Nut, Amber' },
+                    { model: 'F5S', variant: 'Sunburst', price: '$3,995', specs: 'Standard F5S' },
+                    { model: 'F5S', variant: 'Amber', price: '$3,995', specs: 'Amber Finish' },
+                ]
+            },
+            'Dusty Strings': {
+                url: 'https://store.dustystrings.com',
+                items: [
+                    { model: 'Big Mon', variant: 'Icelandic Brown', price: '$5,695', specs: 'Adirondack, Spirit Varnish' },
+                    { model: 'F2 Oval Hole', variant: 'Engelmann Cherryburst', price: '$3,995', specs: 'Engelmann, Cherryburst Satin' },
+                    { model: 'A-Style Special', variant: 'A4 Amber', price: '$3,995', specs: 'Italian Spruce, Oval Hole' },
+                    { model: 'A-Style Special', variant: 'A5 Dark Cherry Burst', price: '$3,995', specs: 'Italian Spruce, Spirit Varnish' },
+                    { model: 'A-Style Special', variant: 'A5 Icelandic Brown', price: '$3,995', specs: 'Italian Spruce, Spirit Varnish' },
+                ]
+            },
+            'Retrofret': {
+                url: 'https://www.retrofret.com/search.asp?keyword=northfield',
+                items: [
+                    { model: 'Big Mon', variant: 'Engelmann', price: '$5,395', specs: 'Engelmann, Enlarged F5' },
+                    { model: 'Mandola', variant: 'M5', price: '$3,995', specs: 'Carved F-hole, Adirondack, 16.5" Scale' },
+                    { model: 'A-Style Special', variant: 'A5', price: '$3,995', specs: 'Alpine/Engelmann, Figured Maple' },
+                    { model: 'Electric Octave', variant: 'EL2', price: '$2,250', specs: 'Solid Body, Amber Varnish' },
+                ]
+            },
+            'Gryphon Strings': {
+                url: 'https://www.gryphonstrings.com/search?type=product&q=northfield',
+                items: [
+                    { model: 'Artist Series', variant: 'NFA-F52A Adirondack', price: '$7,495', specs: 'Mike Marshall, Spirit Varnish' },
+                    { model: 'Big Mon', variant: 'Adirondack', price: '$5,695', specs: 'Spirit Varnish, Airloom Case' },
+                    { model: 'Octave Mandolin', variant: 'Archtop AT2', price: '$5,495', specs: 'Figured Maple, 22" Scale' },
+                ]
+            },
+            'Carter Vintage': {
+                url: 'https://cartervintage.com/shop/category/mandolins?keywords=northfield',
+                items: [
+                    { model: 'F5S', variant: 'Sunburst 2026', price: '$3,995', specs: 'Sunburst' },
+                    { model: 'Octave Mandolin', variant: 'WaveLength AT3', price: '$3,495', specs: 'Red Spruce Top' },
+                ]
+            },
+            "Fiddler's Green": {
+                url: 'https://fiddlersgreenmusicshop.com',
+                items: [
+                    { model: 'Big Mon', variant: 'Adirondack Sunburst', price: '$5,695', specs: 'Adirondack Top' },
+                    { model: 'F5S', variant: 'Engelmann Sunburst', price: '$3,995', specs: 'Engelmann Top' },
+                ]
+            },
+            'Old Town School': {
+                url: 'https://musicstore.oldtownschool.org',
+                items: [
+                    { model: 'Octave Mandolin', variant: 'AT1', price: '$4,995', specs: 'Italian Alpine, Mahogany' },
+                    { model: 'Model M', variant: 'Wide Nut', price: '$3,195', specs: 'Engelmann, Dark Leatherburst' },
+                ]
+            },
+            'The Music Emporium': {
+                url: 'https://themusicemporium.com/collections/northfield',
+                items: [
+                    { model: 'Artist Series', variant: 'F5 5-Bar Engelmann', price: '$7,495', specs: '5-Bar Bracing, Highly Figured Maple' },
+                ]
+            },
+            'Lowe Vintage': {
+                url: 'https://lowevintage.com',
+                items: []
+            },
+            'Music Villa': {
+                url: 'https://musicvilla.com/collections/mandolins',
+                items: []
+            }
+        };
+
         // ========== DEALER TABLE ==========
         const dealers = [
             { rank: 1, name: 'Acoustic Music Works', loc: 'Pittsburgh, PA', stock: 12, avg: '$4,371', families: 6, dcm: false },
@@ -1284,24 +1630,101 @@
             { rank: 14, name: 'Music Villa', loc: 'Bozeman, MT', stock: 0, avg: '—', families: 0, dcm: false },
         ];
 
+        // ========== BUILD RANKINGS TABLE ==========
         const tbody = document.getElementById('dealerTableBody');
+        const collapseBtn = document.getElementById('collapseAllBtn');
         let rowsHTML = '';
-        dealers.forEach(d => {
+        dealers.forEach((d, idx) => {
             const rc = d.rank === 1 ? 'rank-1' : d.rank === 2 ? 'rank-2' : d.rank === 3 ? 'rank-3' : 'rank-other';
             const bw = (d.stock / 12 * 100).toFixed(0);
             const cls = d.dcm ? 'highlight-row' : '';
             const star = d.dcm ? starSVG : '';
             const barColor = d.dcm ? 'background:var(--chart-dcm)' : 'background:var(--accent)';
-            rowsHTML += `<tr class="${cls}">
+            const inv = dealerInventory[d.name];
+            const url = inv ? inv.url : '#';
+            const items = inv ? inv.items : [];
+            const hasItems = items.length > 0;
+            const chevron = hasItems ? `<button class="dealer-toggle" data-idx="${idx}" title="Show inventory">▸</button>` : '<span style="display:inline-block;width:23px"></span>';
+
+            rowsHTML += `<tr class="${cls} dealer-main-row" data-idx="${idx}">
             <td><span class="rank ${rc}">${d.rank}</span></td>
-            <td>${d.name}${star}</td>
+            <td>${chevron}<a href="${url}" target="_blank" rel="noopener" class="dealer-link">${d.name}</a>${star}</td>
             <td>${d.loc}</td>
             <td>${d.stock} <span class="stock-bar-bg"><span class="stock-bar" style="width:${bw}%;${barColor}"></span></span></td>
             <td>${d.avg}</td>
             <td>${d.families}</td>
         </tr>`;
+
+            if (hasItems) {
+                let detailRows = '';
+                items.forEach(it => {
+                    detailRows += `<tr><td><strong>${it.model}</strong></td><td>${it.variant}</td><td>${it.price}</td><td>${it.specs}</td></tr>`;
+                });
+                rowsHTML += `<tr class="dealer-detail-row" data-idx="${idx}">
+                <td colspan="6">
+                    <div class="dealer-detail-wrap">
+                        <div class="dealer-detail-inner">
+                            <table><thead><tr><th>Model</th><th>Variant</th><th>Price</th><th>Specs</th></tr></thead>
+                            <tbody>${detailRows}</tbody></table>
+                        </div>
+                    </div>
+                </td>
+            </tr>`;
+            }
         });
         tbody.innerHTML = rowsHTML;
+
+        // ========== EXPAND / COLLAPSE LOGIC ==========
+        function updateCollapseBtn() {
+            const anyOpen = tbody.querySelector('.dealer-detail-row.open');
+            collapseBtn.classList.toggle('visible', !!anyOpen);
+        }
+
+        tbody.addEventListener('click', (e) => {
+            const toggle = e.target.closest('.dealer-toggle');
+            if (!toggle) return;
+            const idx = toggle.dataset.idx;
+            const detailRow = tbody.querySelector(`.dealer-detail-row[data-idx="${idx}"]`);
+            if (!detailRow) return;
+            const isOpen = detailRow.classList.toggle('open');
+            toggle.classList.toggle('expanded', isOpen);
+            toggle.textContent = isOpen ? '▸' : '▸';
+            updateCollapseBtn();
+        });
+
+        collapseBtn.addEventListener('click', () => {
+            tbody.querySelectorAll('.dealer-detail-row.open').forEach(row => {
+                row.classList.remove('open');
+                const idx = row.dataset.idx;
+                const toggle = tbody.querySelector(`.dealer-toggle[data-idx="${idx}"]`);
+                if (toggle) toggle.classList.remove('expanded');
+            });
+            updateCollapseBtn();
+        });
+
+        // ========== COMPLETE DEALER INVENTORY SECTION ==========
+        const invGrid = document.getElementById('inventoryGrid');
+        const sortedDealers = dealers.filter(d => d.stock > 0).sort((a, b) => b.stock - a.stock);
+        let invHTML = '';
+        sortedDealers.forEach(d => {
+            const inv = dealerInventory[d.name];
+            if (!inv || inv.items.length === 0) return;
+            const dcmBadge = d.dcm ? '<span class="dcm-badge">★ YOUR STORE</span>' : '';
+            let itemRows = '';
+            inv.items.forEach(it => {
+                itemRows += `<tr><td><strong>${it.model}</strong></td><td>${it.variant}</td><td>${it.price}</td><td>${it.specs}</td></tr>`;
+            });
+            invHTML += `<div class="inventory-card">
+                <div class="inventory-card-header">
+                    <span class="inventory-card-name"><a href="${inv.url}" target="_blank" rel="noopener">${d.name}</a>${dcmBadge}</span>
+                    <span class="inventory-card-meta">${inv.items.length} instrument${inv.items.length !== 1 ? 's' : ''}</span>
+                </div>
+                <div class="inventory-card-loc">${d.loc}</div>
+                <table><thead><tr><th>Model</th><th>Variant</th><th>Price</th><th>Specs</th></tr></thead>
+                <tbody>${itemRows}</tbody></table>
+            </div>`;
+        });
+        invGrid.innerHTML = invHTML;
     </script>
 
 </body>
