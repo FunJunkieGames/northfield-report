@@ -1,106 +1,106 @@
 {
  "schema": 1,
- "last_processed_run": "2026-08-23-21-49",
+ "last_processed_run": "2026-08-24-01-05",
  "dealers": {
   "Old Town School Music Store": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 44
+   "last_good_scan": "2026-08-24",
+   "good_scans": 45
   },
   "Penny Lane Music Emporium": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 44
+   "last_good_scan": "2026-08-24",
+   "good_scans": 45
   },
   "Musikhaus Saitensprung": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 44
+   "last_good_scan": "2026-08-24",
+   "good_scans": 45
   },
   "Guitar Gallery": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 44
+   "last_good_scan": "2026-08-24",
+   "good_scans": 45
   },
   "Folkway Music": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 44
+   "last_good_scan": "2026-08-24",
+   "good_scans": 45
   },
   "Guitar Trailer": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 43
+   "last_good_scan": "2026-08-24",
+   "good_scans": 44
   },
   "Eagle Music Shop": {
    "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 43
+   "last_good_scan": "2026-08-24",
+   "good_scans": 44
   },
   "Morgan Music": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 35
+   "last_good_scan": "2026-08-24",
+   "good_scans": 36
   },
   "Gryphon Stringed Instruments": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 36
+   "last_good_scan": "2026-08-24",
+   "good_scans": 37
   },
   "Acoustic Music Works": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 37
+   "last_good_scan": "2026-08-24",
+   "good_scans": 38
   },
   "The Music Emporium": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 36
+   "last_good_scan": "2026-08-24",
+   "good_scans": 37
   },
   "Dusty Strings": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 37
+   "last_good_scan": "2026-08-24",
+   "good_scans": 38
   },
   "Fiddler's Green Music Shop": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 36
+   "last_good_scan": "2026-08-24",
+   "good_scans": 37
   },
   "Elderly Instruments": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 38
+   "last_good_scan": "2026-08-24",
+   "good_scans": 39
   },
   "Banjo Ben General Store": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 39
+   "last_good_scan": "2026-08-24",
+   "good_scans": 40
   },
   "Retrofret Vintage Guitars": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 37
+   "last_good_scan": "2026-08-24",
+   "good_scans": 38
   },
   "Dry Creek Music": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 35
+   "last_good_scan": "2026-08-24",
+   "good_scans": 36
   },
   "Music Villa": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 34
+   "last_good_scan": "2026-08-24",
+   "good_scans": 35
   },
   "The Fellowship of Acoustics": {
    "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 34
+   "last_good_scan": "2026-08-24",
+   "good_scans": 35
   },
   "Carter Vintage": {
    "first_tracked": "2026-07-19",
-   "last_good_scan": "2026-08-23",
-   "good_scans": 32
+   "last_good_scan": "2026-08-24",
+   "good_scans": 33
   }
  },
  "items": {
@@ -122,7 +122,7 @@
    "extraction_method": "ecwid",
    "confidence": "high",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -144,7 +144,7 @@
    "extraction_method": "ecwid",
    "confidence": "high",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -166,7 +166,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -188,7 +188,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -205,7 +205,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -227,7 +227,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -249,7 +249,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -271,7 +271,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -293,31 +293,9 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
-  },
-  "acoustic-music-works|url|acousticmusicworks.com/products/northfield-nfb-f5e-big-mon-engelmann-spruce-maple-new": {
-   "dealer": "Acoustic Music Works",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFB-F5E Big Mon, Engelmann Spruce, Maple - NEW",
-   "price": 5695.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     5695.0
-    ]
-   ],
-   "product_url": "https://acousticmusicworks.com/products/northfield-nfb-f5e-big-mon-engelmann-spruce-maple-new",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
-   "missing_since": "2026-08-23",
-   "missing_scans": 1
   },
   "acoustic-music-works|url|acousticmusicworks.com/products/northfield-nfb-f5i-big-mon-italian-spruce-maple-new": {
    "dealer": "Acoustic Music Works",
@@ -337,7 +315,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -359,7 +337,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -381,7 +359,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -403,7 +381,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -425,7 +403,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -447,7 +425,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -469,7 +447,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -491,7 +469,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -513,7 +491,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -535,7 +513,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -557,7 +535,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -579,7 +557,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -601,7 +579,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -623,7 +601,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -645,7 +623,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -668,8 +646,8 @@
    "confidence": "high",
    "first_seen": "2026-07-16",
    "last_seen": "2026-08-23",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-08-24",
+   "missing_scans": 1
   },
   "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213": {
    "dealer": "Retrofret Vintage Guitars",
@@ -689,7 +667,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -711,7 +689,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -737,7 +715,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -759,7 +737,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -781,7 +759,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -803,7 +781,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -825,7 +803,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -847,7 +825,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -873,7 +851,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -895,7 +873,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-18",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -917,7 +895,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -939,7 +917,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -956,7 +934,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -978,7 +956,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1000,7 +978,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1017,7 +995,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1034,7 +1012,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-08-01",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1056,7 +1034,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1078,7 +1056,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1100,7 +1078,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1122,7 +1100,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1144,7 +1122,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1166,7 +1144,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-06",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1189,8 +1167,8 @@
    "confidence": "low",
    "first_seen": "2026-07-15",
    "last_seen": "2026-08-23",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-08-24",
+   "missing_scans": 1
   },
   "guitar-gallery|fp|s series|||": {
    "dealer": "Guitar Gallery",
@@ -1214,7 +1192,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1236,7 +1214,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1258,7 +1236,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1280,7 +1258,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1302,7 +1280,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1324,7 +1302,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1346,7 +1324,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1368,7 +1346,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1390,7 +1368,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1412,7 +1390,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1434,26 +1412,9 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-16",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
-  },
-  "guitar-trailer|fp|big mon|||": {
-   "dealer": "Guitar Trailer",
-   "country_code": "JP",
-   "currency": "JPY",
-   "international": true,
-   "model": "Big Mon",
-   "full_name": "Northfield Big Mon",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-22",
-   "missing_since": "2026-08-23",
-   "missing_scans": 2
   },
   "acoustic-music-works|url|acousticmusicworks.com/products/northfield-nfs-f2e-oval-hole-engelmann-spruce-figured-maple-new": {
    "dealer": "Acoustic Music Works",
@@ -1473,7 +1434,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-21",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1495,24 +1456,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-22",
-   "last_seen": "2026-08-23",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "musikhaus-saitensprung|fp|el 2|ox amber|red spruce|pickup": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "EL-2",
-   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1534,7 +1478,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-08-22",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1551,7 +1495,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1568,50 +1512,11 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
-  "guitar-trailer|fp|octave mandolin|||": {
-   "dealer": "Guitar Trailer",
-   "country_code": "JP",
-   "currency": "JPY",
-   "international": true,
-   "model": "Octave Mandolin",
-   "full_name": "Northfield Octave Mandolin!",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-22",
-   "last_seen": "2026-08-22",
-   "missing_since": "2026-08-23",
-   "missing_scans": 2
-  },
-  "gryphon-stringed-instruments|url|gryphonstrings.com/products/northfield-the-wave-length-shortscale-archtop-octave-dark-leatherburst-mandolin-new-26451": {
-   "dealer": "Gryphon Stringed Instruments",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield The WaveLength Shortscale Archtop Octave Dark Leatherburst Mandolin - New",
-   "price": 3445.0,
-   "price_history": [
-    [
-     "2026-08-23",
-     3445.0
-    ]
-   ],
-   "product_url": "https://www.gryphonstrings.com/products/northfield-the-wave-length-shortscale-archtop-octave-dark-leatherburst-mandolin-new-26451",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-08-23",
-   "last_seen": "2026-08-23",
-   "missing_since": "2026-08-23",
-   "missing_scans": 1
-  },
-  "carter-vintage|fp|nfmsp a5|dark cherry||": {
+  "carter-vintage|fp|nfmsp a5|dark cherryburst||": {
    "dealer": "Carter Vintage",
    "country_code": "US",
    "currency": "USD",
@@ -1629,11 +1534,11 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-19",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
-  "musikhaus-saitensprung|fp|wave length||red spruce|shortscale archtop": {
+  "musikhaus-saitensprung|fp|wave length||red spruce|": {
    "dealer": "Musikhaus Saitensprung",
    "country_code": "CH",
    "currency": "CHF",
@@ -1646,17 +1551,56 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
-  "guitar-trailer|fp|nfs f5||engleman|": {
+  "musikhaus-saitensprung|fp|el 2|ox amber|red spruce|pickup electric": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "EL-2",
+   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-gallery|fp|f2|||": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "F2",
+   "full_name": "Northfield F-2 Mandolin",
+   "price": 7999.0,
+   "price_history": [
+    [
+     "2026-08-24",
+     7999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-08-24",
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-trailer|fp|nfs f5||engelmann|": {
    "dealer": "Guitar Trailer",
    "country_code": "JP",
    "currency": "JPY",
    "international": true,
    "model": "NFS-F5",
-   "full_name": "Northfield NFS-F5\u3000Engleman Top!",
+   "full_name": "Northfield NFS-F5 Engleman Top!",
    "price": 570000,
    "price_history": [
     [
@@ -1668,11 +1612,11 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-08-19",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
-  "eagle-music-shop|fp|model m||engelmann|wide nut": {
+  "eagle-music-shop|fp|model m||engelmann|": {
    "dealer": "Eagle Music Shop",
    "country_code": "GB",
    "currency": "GBP",
@@ -1690,11 +1634,11 @@
    "extraction_method": "httpx",
    "confidence": "low",
    "first_seen": "2026-07-29",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   },
-  "eagle-music-shop|fp|quickstep||adirondack|radiused fingerboard elevated fingerboard longer scale": {
+  "eagle-music-shop|fp|quickstep||adirondack|": {
    "dealer": "Eagle Music Shop",
    "country_code": "GB",
    "currency": "GBP",
@@ -1712,7 +1656,7 @@
    "extraction_method": "httpx",
    "confidence": "low",
    "first_seen": "2026-07-29",
-   "last_seen": "2026-08-23",
+   "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
   }
