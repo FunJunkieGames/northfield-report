@@ -1,106 +1,106 @@
 {
  "schema": 1,
- "last_processed_run": "2026-08-24-01-05",
+ "last_processed_run": "2026-08-24-10-00",
  "dealers": {
   "Old Town School Music Store": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 45
+   "good_scans": 46
   },
   "Penny Lane Music Emporium": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 45
+   "good_scans": 46
   },
   "Musikhaus Saitensprung": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 45
+   "good_scans": 46
   },
   "Guitar Gallery": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 45
+   "good_scans": 46
   },
   "Folkway Music": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 45
+   "good_scans": 46
   },
   "Guitar Trailer": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 44
+   "good_scans": 45
   },
   "Eagle Music Shop": {
    "first_tracked": "2026-07-15",
    "last_good_scan": "2026-08-24",
-   "good_scans": 44
+   "good_scans": 45
   },
   "Morgan Music": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 36
+   "good_scans": 37
   },
   "Gryphon Stringed Instruments": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 37
+   "good_scans": 38
   },
   "Acoustic Music Works": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 38
+   "good_scans": 39
   },
   "The Music Emporium": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 37
+   "good_scans": 38
   },
   "Dusty Strings": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 38
+   "good_scans": 39
   },
   "Fiddler's Green Music Shop": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 37
+   "good_scans": 38
   },
   "Elderly Instruments": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 39
+   "good_scans": 40
   },
   "Banjo Ben General Store": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 40
+   "good_scans": 41
   },
   "Retrofret Vintage Guitars": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 38
+   "good_scans": 39
   },
   "Dry Creek Music": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 36
+   "good_scans": 37
   },
   "Music Villa": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 35
+   "good_scans": 36
   },
   "The Fellowship of Acoustics": {
    "first_tracked": "2026-07-16",
    "last_good_scan": "2026-08-24",
-   "good_scans": 35
+   "good_scans": 36
   },
   "Carter Vintage": {
    "first_tracked": "2026-07-19",
    "last_good_scan": "2026-08-24",
-   "good_scans": 33
+   "good_scans": 34
   }
  },
  "items": {
@@ -627,28 +627,6 @@
    "missing_since": null,
    "missing_scans": 0
   },
-  "banjo-ben-general-store|url|store.banjobenclark.com/products/northfield-big-mon-f-style-mandolin-with-two-piece-back-and-with-case": {
-   "dealer": "Banjo Ben General Store",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield Big Mon F-Style Mandolin With Two-Piece Back And With Case",
-   "price": 5695.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     5695.0
-    ]
-   ],
-   "product_url": "https://store.banjobenclark.com/products/northfield-big-mon-f-style-mandolin-with-two-piece-back-and-with-case",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-23",
-   "missing_since": "2026-08-24",
-   "missing_scans": 1
-  },
   "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213": {
    "dealer": "Retrofret Vintage Guitars",
    "country_code": "US",
@@ -1166,9 +1144,9 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-15",
-   "last_seen": "2026-08-23",
-   "missing_since": "2026-08-24",
-   "missing_scans": 1
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
   },
   "guitar-gallery|fp|s series|||": {
    "dealer": "Guitar Gallery",
@@ -1516,45 +1494,6 @@
    "missing_since": null,
    "missing_scans": 0
   },
-  "carter-vintage|fp|nfmsp a5|dark cherryburst||": {
-   "dealer": "Carter Vintage",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "NFMSP-A5",
-   "full_name": "Northfield NFMSP-A5 2026, Dark Cherryburst",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-19",
-     3995.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-19",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "musikhaus-saitensprung|fp|wave length||red spruce|": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "Wave Length",
-   "full_name": "NORTHFIELD \"Wave Length\" Shortscale Archtop Octave Mandoline",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
   "musikhaus-saitensprung|fp|el 2|ox amber|red spruce|pickup electric": {
    "dealer": "Musikhaus Saitensprung",
    "country_code": "CH",
@@ -1569,8 +1508,8 @@
    "confidence": "low",
    "first_seen": "2026-07-15",
    "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-08-24",
+   "missing_scans": 1
   },
   "guitar-gallery|fp|f2|||": {
    "dealer": "Guitar Gallery",
@@ -1591,8 +1530,8 @@
    "confidence": "low",
    "first_seen": "2026-08-24",
    "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-08-24",
+   "missing_scans": 1
   },
   "guitar-trailer|fp|nfs f5||engelmann|": {
    "dealer": "Guitar Trailer",
@@ -1656,6 +1595,62 @@
    "extraction_method": "httpx",
    "confidence": "low",
    "first_seen": "2026-07-29",
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "carter-vintage|fp|nfmsp a5|dark cherryburst|italian alpine|": {
+   "dealer": "Carter Vintage",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "NFMSP-A5",
+   "full_name": "Northfield NFMSP-A5 2026, Dark Cherryburst",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-19",
+     3995.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-19",
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "musikhaus-saitensprung|fp|wave length||red spruce|shortscale archtop": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "Wave Length",
+   "full_name": "NORTHFIELD \"Wave Length\" Shortscale Archtop Octave Mandoline",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-15",
+   "last_seen": "2026-08-24",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "musikhaus-saitensprung|fp|el 2 eleocto|amber|red spruce|electric pickup seymour duncan humbucker": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "EL-2 EleOcto",
+   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-08-24",
    "last_seen": "2026-08-24",
    "missing_since": null,
    "missing_scans": 0
