@@ -1,236 +1,109 @@
 {
  "schema": 1,
- "last_processed_run": "2026-08-24-10-00",
+ "last_processed_run": "2026-08-25-10-00",
  "dealers": {
-  "Old Town School Music Store": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 46
-  },
-  "Penny Lane Music Emporium": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 46
-  },
-  "Musikhaus Saitensprung": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 46
-  },
-  "Guitar Gallery": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 46
-  },
-  "Folkway Music": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 46
-  },
-  "Guitar Trailer": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 45
-  },
-  "Eagle Music Shop": {
-   "first_tracked": "2026-07-15",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 45
-  },
   "Morgan Music": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 31
+  },
+  "Old Town School Music Store": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
    "good_scans": 37
   },
   "Gryphon Stringed Instruments": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 38
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 31
   },
   "Acoustic Music Works": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 39
-  },
-  "The Music Emporium": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 38
-  },
-  "Dusty Strings": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 39
-  },
-  "Fiddler's Green Music Shop": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 38
-  },
-  "Elderly Instruments": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 40
-  },
-  "Banjo Ben General Store": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 41
-  },
-  "Retrofret Vintage Guitars": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 39
-  },
-  "Dry Creek Music": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 37
-  },
-  "Music Villa": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 36
-  },
-  "The Fellowship of Acoustics": {
-   "first_tracked": "2026-07-16",
-   "last_good_scan": "2026-08-24",
-   "good_scans": 36
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 31
   },
   "Carter Vintage": {
-   "first_tracked": "2026-07-19",
-   "last_good_scan": "2026-08-24",
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 30
+  },
+  "The Music Emporium": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 32
+  },
+  "Dusty Strings": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 32
+  },
+  "Fiddler's Green Music Shop": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 31
+  },
+  "Elderly Instruments": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 33
+  },
+  "Banjo Ben General Store": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
    "good_scans": 34
+  },
+  "Penny Lane Music Emporium": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
+  },
+  "Retrofret Vintage Guitars": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 31
+  },
+  "Dry Creek Music": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 32
+  },
+  "Music Villa": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 30
+  },
+  "Musikhaus Saitensprung": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
+  },
+  "The Fellowship of Acoustics": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 29
+  },
+  "Guitar Gallery": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
+  },
+  "Folkway Music": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
+  },
+  "Guitar Trailer": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
+  },
+  "Eagle Music Shop": {
+   "first_tracked": "2026-07-24",
+   "last_good_scan": "2026-08-25",
+   "good_scans": 37
   }
  },
  "items": {
-  "old-town-school-music-store|url|oldtownschool.store/products/northfield-big-mon-adirondack-red-spruce-figured-maple-f-style-mandolin-amber-w-hard-case": {
-   "dealer": "Old Town School Music Store",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield \"Big Mon\" Adirondack Red Spruce/Figured Maple F-Style Mandolin Amber w/Hard Case",
-   "price": 5695.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     5695.0
-    ]
-   ],
-   "product_url": "https://oldtownschool.store/products/northfield-big-mon-adirondack-red-spruce-figured-maple-f-style-mandolin-amber-w-hard-case",
-   "extraction_method": "ecwid",
-   "confidence": "high",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "old-town-school-music-store|url|oldtownschool.store/products/northfield-nfs-f2-adirondack-red-spruce-figured-maple-f-style-oval-hole-mandolin-light-cherryburst-w-hard-case": {
-   "dealer": "Old Town School Music Store",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFS-F2 Adirondack Red Spruce/Figured Maple F-Style Oval Hole Mandolin Light Cherryburst w/Hard Case",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     3995.0
-    ]
-   ],
-   "product_url": "https://oldtownschool.store/products/northfield-nfs-f2-adirondack-red-spruce-figured-maple-f-style-oval-hole-mandolin-light-cherryburst-w-hard-case",
-   "extraction_method": "ecwid",
-   "confidence": "high",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "penny-lane-music-emporium|url|pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfmsp-a5-dark-cherry-mandolin": {
-   "dealer": "Penny Lane Music Emporium",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "NORTHFIELD A5 SPECIAL BLACK TOP DARK CHERRY PREMIUM ITALIAN SPRUCE TOP A-STYLE MANDOLIN WITH CASE",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     3995.0
-    ]
-   ],
-   "product_url": "https://pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfmsp-a5-dark-cherry-mandolin/",
-   "extraction_method": "woocommerce",
-   "confidence": "high",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "penny-lane-music-emporium|url|pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfb-f5a-icelandic-brown-mandolin": {
-   "dealer": "Penny Lane Music Emporium",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "NORTHFIELD BIG-MON ICELANDIC BROWN ADIRONDACK SPRUCE TOP F-STYLE MANDOLIN WITH CASE",
-   "price": 5995.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     5995.0
-    ]
-   ],
-   "product_url": "https://pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfb-f5a-icelandic-brown-mandolin/",
-   "extraction_method": "woocommerce",
-   "confidence": "high",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "folkway-music|fp|nfb f5awn|amber|adirondack|wide nut": {
-   "dealer": "Folkway Music",
-   "country_code": "CA",
-   "currency": "CAD",
-   "international": true,
-   "model": "NFB-F5AWN",
-   "full_name": "Northfield NFB-F5AWN Adirondack, Wide Nut, Amber",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-trailer|fp|nfs f5||red spruce|": {
-   "dealer": "Guitar Trailer",
-   "country_code": "JP",
-   "currency": "JPY",
-   "international": true,
-   "model": "NFS-F5",
-   "full_name": "Northfield NFS-F5 Red Spruce Top\uff01",
-   "price": 570000,
-   "price_history": [
-    [
-     "2026-07-15",
-     570000
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
   "morgan-music|url|morganmusic.com/products/northfield-a5-special-black-top": {
    "dealer": "Morgan Music",
    "country_code": "US",
@@ -241,15 +114,15 @@
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
    "product_url": "https://www.morganmusic.com/products/northfield-a5-special-black-top",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -263,15 +136,15 @@
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
    "product_url": "https://www.morganmusic.com/products/northfield-a5-special-mandolin",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -285,15 +158,59 @@
    "price": 2995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      2995.0
     ]
    ],
    "product_url": "https://www.morganmusic.com/products/northfield-el2-electro-electric-octave-mandolin-ox-amber-copy",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "old-town-school-music-store|url|oldtownschool.store/products/northfield-big-mon-adirondack-red-spruce-figured-maple-f-style-mandolin-amber-w-hard-case": {
+   "dealer": "Old Town School Music Store",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield \"Big Mon\" Adirondack Red Spruce/Figured Maple F-Style Mandolin Amber w/Hard Case",
+   "price": 5695.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     5695.0
+    ]
+   ],
+   "product_url": "https://oldtownschool.store/products/northfield-big-mon-adirondack-red-spruce-figured-maple-f-style-mandolin-amber-w-hard-case",
+   "extraction_method": "ecwid",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
    "last_seen": "2026-08-24",
+   "missing_since": "2026-08-25",
+   "missing_scans": 1
+  },
+  "old-town-school-music-store|url|oldtownschool.store/products/northfield-nfs-f2-adirondack-red-spruce-figured-maple-f-style-oval-hole-mandolin-light-cherryburst-w-hard-case": {
+   "dealer": "Old Town School Music Store",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFS-F2 Adirondack Red Spruce/Figured Maple F-Style Oval Hole Mandolin Light Cherryburst w/Hard Case",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://oldtownschool.store/products/northfield-nfs-f2-adirondack-red-spruce-figured-maple-f-style-oval-hole-mandolin-light-cherryburst-w-hard-case",
+   "extraction_method": "ecwid",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -307,15 +224,15 @@
    "price": 5695.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      5695.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfb-f5i-big-mon-italian-spruce-maple-new",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -329,15 +246,15 @@
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfmsp-a5-a5-special-premium-italian-alpine-spruce-figured-maple-new",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -351,15 +268,15 @@
    "price": 2695.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      2695.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfo-el2-eleocto-electric-octave-mandolin-red-spruce-maple-new",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -373,15 +290,15 @@
    "price": 3795.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3795.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfs-f2-oval-hole-adirondack-spruce-figured-maple-new-copy-1",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -395,15 +312,15 @@
    "price": 4495.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      4495.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfs-f5el-engelmann-spruce-maple-left-handed-new",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -417,15 +334,15 @@
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfs-f5se-engelmann-spruce-maple-sunburst-new",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -439,397 +356,37 @@
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
    "product_url": "https://acousticmusicworks.com/products/northfield-nfs-f5wn-adirondack-spruce-maple-wide-nut-new-2",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
-  "dusty-strings|url|store.dustystrings.com/products/northfield-a4-special-1": {
-   "dealer": "Dusty Strings",
+  "carter-vintage|fp|northfield nfmsp a5 2026 dark cherryburst": {
+   "dealer": "Carter Vintage",
    "country_code": "US",
    "currency": "USD",
    "international": false,
-   "model": "",
-   "full_name": "Northfield A4 Special",
+   "model": "NFMSP-A5",
+   "full_name": "Northfield NFMSP-A5 2026, Dark Cherryburst",
    "price": 3995.0,
    "price_history": [
     [
-     "2026-07-16",
+     "2026-07-24",
      3995.0
     ]
    ],
-   "product_url": "https://store.dustystrings.com/products/northfield-a4-special-1",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dusty-strings|url|store.dustystrings.com/products/northfield-a5-special": {
-   "dealer": "Dusty Strings",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield A5 Special",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://store.dustystrings.com/products/northfield-a5-special",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "fiddler-s-green-music-shop|url|fiddlersgreenmusicshop.com/products/northfield-f5s-adirondack-wide-nut": {
-   "dealer": "Fiddler's Green Music Shop",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield F5S - Red Spruce/Wide Nut",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://fiddlersgreenmusicshop.com/products/northfield-f5s-adirondack-wide-nut",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "elderly-instruments|url|elderly.com/products/northfield-nfb-f5altd-limited-edition-big-mon-f-style-mandolin-case-nfb-f5altd": {
-   "dealer": "Elderly Instruments",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFB-F5Altd Limited Edition Big Mon F-Style Mandolin & Case",
-   "price": 6995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     6995.0
-    ]
-   ],
-   "product_url": "https://www.elderly.com/products/northfield-nfb-f5altd-limited-edition-big-mon-f-style-mandolin-case-nfb-f5altd",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "elderly-instruments|url|elderly.com/products/northfield-workshop-nf5m-master-model-custom-big-mon-mandolin": {
-   "dealer": "Elderly Instruments",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFB-F5E Big Mon F-Style Mandolin & Case, Engelmann Top",
-   "price": 5695.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     5695.0
-    ]
-   ],
-   "product_url": "https://www.elderly.com/products/northfield-workshop-nf5m-master-model-custom-big-mon-mandolin",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "elderly-instruments|url|elderly.com/products/northfield-workshop-s-series-f2sb-mandolin-blacktop-oval-soundhole-with-case": {
-   "dealer": "Elderly Instruments",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFS-F2 S-Series F-Style Oval Hole Mandolin & Case, Blacktop",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://www.elderly.com/products/northfield-workshop-s-series-f2sb-mandolin-blacktop-oval-soundhole-with-case",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "elderly-instruments|url|elderly.com/products/northfield-workshop-s-series-f2s-mandolin-oval-soundhole-with-case": {
-   "dealer": "Elderly Instruments",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFS-F2 S-Series F-Style Oval Hole Mandolin & Case, Sunburst",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://www.elderly.com/products/northfield-workshop-s-series-f2s-mandolin-oval-soundhole-with-case",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "banjo-ben-general-store|url|store.banjobenclark.com/products/northfield-big-mon-custom-engelmann-black-top-f-style-mandolin-with-case": {
-   "dealer": "Banjo Ben General Store",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield Big Mon Custom Black Top F-Style Mandolin With Case",
-   "price": 5695.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     5695.0
-    ]
-   ],
-   "product_url": "https://store.banjobenclark.com/products/northfield-big-mon-custom-engelmann-black-top-f-style-mandolin-with-case",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213": {
-   "dealer": "Retrofret Vintage Guitars",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFA-F5IE Carved Top Mandolin (2025)",
-   "price": 7500.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     7500.0
-    ]
-   ],
-   "product_url": "https://www.retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfmsp-a5-carved-top-mandolin-2025-12786": {
-   "dealer": "Retrofret Vintage Guitars",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFMSP-A5 Carved Top Mandolin (2025)",
-   "price": 3750.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3750.0
-    ]
-   ],
-   "product_url": "https://www.retrofret.com/products/northfield-nfmsp-a5-carved-top-mandolin-2025-12786",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dry-creek-music|url|drycreekmusic.com/products/northfield-big-mon-w-italian-spruce-top-b250841": {
-   "dealer": "Dry Creek Music",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield Big Mon w/ Italian Spruce Top (#B250841)",
-   "price": 5495.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     5695.0
-    ],
-    [
-     "2026-08-14",
-     5495.0
-    ]
-   ],
-   "product_url": "https://drycreekmusic.com/products/northfield-big-mon-w-italian-spruce-top-b250841",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dry-creek-music|url|drycreekmusic.com/products/northfield-f2s-oval-hole-mandolin-w-red-spruce-top-wide-nut-s2501448": {
-   "dealer": "Dry Creek Music",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield F2S Oval Hole w/ Red Spruce Top & Wide Nut (#S2501448)",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://drycreekmusic.com/products/northfield-f2s-oval-hole-mandolin-w-red-spruce-top-wide-nut-s2501448",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-engelmann-top-wide-nut-k-k-pickup-s2601540": {
-   "dealer": "Dry Creek Music",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield F5S w/ Engelmann Top, Wide Nut + K&K Pickup (#S2601540)",
-   "price": 4195.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     4195.0
-    ]
-   ],
-   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-engelmann-top-wide-nut-k-k-pickup-s2601540",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-in-light-leatherburst-s2601541": {
-   "dealer": "Dry Creek Music",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield F5S w/ Red Spruce Top & Wide Nut in Light Leatherburst (#S2601541)",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-in-light-leatherburst-s2601541",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-tortoise-binding-2601517": {
-   "dealer": "Dry Creek Music",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield F5S w/ Red Spruce Top, Wide Nut & Tortoise Binding (#S2601517)",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-tortoise-binding-2601517",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "music-villa|url|musicvilla.com/products/northfield-nfs-fse-sunburst": {
-   "dealer": "Music Villa",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "",
-   "full_name": "Northfield NFS-F5 Engelmann",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     3995.0
-    ]
-   ],
-   "product_url": "https://musicvilla.com/products/northfield-nfs-fse-sunburst",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "the-fellowship-of-acoustics|url|tfoa.eu/products/northfield-nfmsp-a4-special-alpine-spruce-icelandic-brown": {
-   "dealer": "The Fellowship of Acoustics",
-   "country_code": "NL",
-   "currency": "EUR",
-   "international": true,
-   "model": "",
-   "full_name": "Northfield NFMSP A4 Special Alpine Spruce Icelandic Brown",
-   "price": 4579.0,
-   "price_history": [
-    [
-     "2026-07-16",
-     4949.0
-    ],
-    [
-     "2026-08-04",
-     4579.0
-    ]
-   ],
-   "product_url": "https://www.tfoa.eu/products/northfield-nfmsp-a4-special-alpine-spruce-icelandic-brown",
-   "extraction_method": "shopify-json",
-   "confidence": "high",
-   "first_seen": "2026-07-16",
-   "last_seen": "2026-08-24",
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -843,15 +400,492 @@
    "price": 4195.0,
    "price_history": [
     [
-     "2026-07-18",
+     "2026-07-24",
      4195.0
     ]
    ],
    "product_url": "https://themusicemporium.com/products/northfield-a5-special-wide-nut-icelandic-brown",
    "extraction_method": "shopify-json",
    "confidence": "high",
-   "first_seen": "2026-07-18",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dusty-strings|url|store.dustystrings.com/products/northfield-a4-special-1": {
+   "dealer": "Dusty Strings",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield A4 Special",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://store.dustystrings.com/products/northfield-a4-special-1",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dusty-strings|url|store.dustystrings.com/products/northfield-a5-special": {
+   "dealer": "Dusty Strings",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield A5 Special",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://store.dustystrings.com/products/northfield-a5-special",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "fiddler-s-green-music-shop|url|fiddlersgreenmusicshop.com/products/northfield-f5s-adirondack-wide-nut": {
+   "dealer": "Fiddler's Green Music Shop",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield F5S - Red Spruce/Wide Nut",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://fiddlersgreenmusicshop.com/products/northfield-f5s-adirondack-wide-nut",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "elderly-instruments|url|elderly.com/products/northfield-nfb-f5altd-limited-edition-big-mon-f-style-mandolin-case-nfb-f5altd": {
+   "dealer": "Elderly Instruments",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFB-F5Altd Limited Edition Big Mon F-Style Mandolin & Case",
+   "price": 6995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     6995.0
+    ]
+   ],
+   "product_url": "https://www.elderly.com/products/northfield-nfb-f5altd-limited-edition-big-mon-f-style-mandolin-case-nfb-f5altd",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "elderly-instruments|url|elderly.com/products/northfield-workshop-nf5m-master-model-custom-big-mon-mandolin": {
+   "dealer": "Elderly Instruments",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFB-F5E Big Mon F-Style Mandolin & Case, Engelmann Top",
+   "price": 5695.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     5695.0
+    ]
+   ],
+   "product_url": "https://www.elderly.com/products/northfield-workshop-nf5m-master-model-custom-big-mon-mandolin",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "elderly-instruments|url|elderly.com/products/northfield-workshop-s-series-f2sb-mandolin-blacktop-oval-soundhole-with-case": {
+   "dealer": "Elderly Instruments",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFS-F2 S-Series F-Style Oval Hole Mandolin & Case, Blacktop",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://www.elderly.com/products/northfield-workshop-s-series-f2sb-mandolin-blacktop-oval-soundhole-with-case",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "elderly-instruments|url|elderly.com/products/northfield-workshop-s-series-f2s-mandolin-oval-soundhole-with-case": {
+   "dealer": "Elderly Instruments",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFS-F2 S-Series F-Style Oval Hole Mandolin & Case, Sunburst",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://www.elderly.com/products/northfield-workshop-s-series-f2s-mandolin-oval-soundhole-with-case",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "banjo-ben-general-store|url|store.banjobenclark.com/products/northfield-big-mon-custom-engelmann-black-top-f-style-mandolin-with-case": {
+   "dealer": "Banjo Ben General Store",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield Big Mon Custom Black Top F-Style Mandolin With Case",
+   "price": 5695.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     5695.0
+    ]
+   ],
+   "product_url": "https://store.banjobenclark.com/products/northfield-big-mon-custom-engelmann-black-top-f-style-mandolin-with-case",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "penny-lane-music-emporium|url|pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfmsp-a5-dark-cherry-mandolin": {
+   "dealer": "Penny Lane Music Emporium",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "NORTHFIELD A5 SPECIAL BLACK TOP DARK CHERRY PREMIUM ITALIAN SPRUCE TOP A-STYLE MANDOLIN WITH CASE",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfmsp-a5-dark-cherry-mandolin/",
+   "extraction_method": "woocommerce",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "penny-lane-music-emporium|url|pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfb-f5a-icelandic-brown-mandolin": {
+   "dealer": "Penny Lane Music Emporium",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "NORTHFIELD BIG-MON ICELANDIC BROWN ADIRONDACK SPRUCE TOP F-STYLE MANDOLIN WITH CASE",
+   "price": 5995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     5995.0
+    ]
+   ],
+   "product_url": "https://pennylaneemporium.com/products/mandolins/northfield-mandolins/northfield-nfb-f5a-icelandic-brown-mandolin/",
+   "extraction_method": "woocommerce",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213": {
+   "dealer": "Retrofret Vintage Guitars",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFA-F5IE Carved Top Mandolin (2025)",
+   "price": 7500.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     7500.0
+    ]
+   ],
+   "product_url": "https://www.retrofret.com/products/northfield-nfa-f5ie-carved-top-mandolin-2025-14213",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "retrofret-vintage-guitars|url|retrofret.com/products/northfield-nfmsp-a5-carved-top-mandolin-2025-12786": {
+   "dealer": "Retrofret Vintage Guitars",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFMSP-A5 Carved Top Mandolin (2025)",
+   "price": 3750.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3750.0
+    ]
+   ],
+   "product_url": "https://www.retrofret.com/products/northfield-nfmsp-a5-carved-top-mandolin-2025-12786",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dry-creek-music|url|drycreekmusic.com/products/northfield-big-mon-w-italian-spruce-top-b250841": {
+   "dealer": "Dry Creek Music",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield Big Mon w/ Italian Spruce Top (#B250841)",
+   "price": 5495.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     5695.0
+    ],
+    [
+     "2026-08-14",
+     5495.0
+    ]
+   ],
+   "product_url": "https://drycreekmusic.com/products/northfield-big-mon-w-italian-spruce-top-b250841",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dry-creek-music|url|drycreekmusic.com/products/northfield-f2s-oval-hole-mandolin-w-red-spruce-top-wide-nut-s2501448": {
+   "dealer": "Dry Creek Music",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield F2S Oval Hole w/ Red Spruce Top & Wide Nut (#S2501448)",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://drycreekmusic.com/products/northfield-f2s-oval-hole-mandolin-w-red-spruce-top-wide-nut-s2501448",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-engelmann-top-wide-nut-k-k-pickup-s2601540": {
+   "dealer": "Dry Creek Music",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield F5S w/ Engelmann Top, Wide Nut + K&K Pickup (#S2601540)",
+   "price": 4195.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     4195.0
+    ]
+   ],
+   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-engelmann-top-wide-nut-k-k-pickup-s2601540",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-in-light-leatherburst-s2601541": {
+   "dealer": "Dry Creek Music",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield F5S w/ Red Spruce Top & Wide Nut in Light Leatherburst (#S2601541)",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-in-light-leatherburst-s2601541",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "dry-creek-music|url|drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-tortoise-binding-2601517": {
+   "dealer": "Dry Creek Music",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield F5S w/ Red Spruce Top, Wide Nut & Tortoise Binding (#S2601517)",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://drycreekmusic.com/products/northfield-f5s-w-red-spruce-top-wide-nut-tortoise-binding-2601517",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "music-villa|url|musicvilla.com/products/northfield-nfs-fse-sunburst": {
+   "dealer": "Music Villa",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "",
+   "full_name": "Northfield NFS-F5 Engelmann",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": "https://musicvilla.com/products/northfield-nfs-fse-sunburst",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "musikhaus-saitensprung|fp|northfield wave length shortscale archtop octave mandoline": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "Wave Length",
+   "full_name": "NORTHFIELD \"Wave Length\" Shortscale Archtop Octave Mandoline",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "musikhaus-saitensprung|fp|northfield the big mon engelmann in light leather": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "Big Mon",
+   "full_name": "NORTHFIELD The \"Big Mon\" Engelmann in \"Light Leather\"",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "musikhaus-saitensprung|fp|northfield el 2 eleocto in ox amber": {
+   "dealer": "Musikhaus Saitensprung",
+   "country_code": "CH",
+   "currency": "CHF",
+   "international": true,
+   "model": "EL-2",
+   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "the-fellowship-of-acoustics|url|tfoa.eu/products/northfield-nfmsp-a4-special-alpine-spruce-icelandic-brown": {
+   "dealer": "The Fellowship of Acoustics",
+   "country_code": "NL",
+   "currency": "EUR",
+   "international": true,
+   "model": "",
+   "full_name": "Northfield NFMSP A4 Special Alpine Spruce Icelandic Brown",
+   "price": 4579.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     4949.0
+    ],
+    [
+     "2026-08-04",
+     4579.0
+    ]
+   ],
+   "product_url": "https://www.tfoa.eu/products/northfield-nfmsp-a4-special-alpine-spruce-icelandic-brown",
+   "extraction_method": "shopify-json",
+   "confidence": "high",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -873,7 +907,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -895,11 +929,121 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
-  "folkway-music|fp|nfb f5a|black|adirondack|": {
+  "guitar-gallery|fp|northfield a 5 special mandolin": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "A-5 Special",
+   "full_name": "Northfield A-5 Special Mandolin",
+   "price": 7999.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     7999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-gallery|fp|northfield artist series mandolin": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "Artist Series",
+   "full_name": "Northfield Artist Series Mandolin",
+   "price": 11999.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     11999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-gallery|fp|northfield big mon mandolin": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "Big Mon",
+   "full_name": "Northfield Big Mon Mandolin",
+   "price": 10999.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     10999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-gallery|fp|northfield f 2 mandolin": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "F-2",
+   "full_name": "Northfield F-2 Mandolin",
+   "price": 7999.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     7999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-gallery|fp|northfield s series mandolin": {
+   "dealer": "Guitar Gallery",
+   "country_code": "AU",
+   "currency": "AUD",
+   "international": true,
+   "model": "S-Series",
+   "full_name": "Northfield S-Series Mandolin",
+   "price": 7999.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     7999.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "folkway-music|fp|northfield nfb f5a big mon adirondack black top": {
    "dealer": "Folkway Music",
    "country_code": "CA",
    "currency": "CAD",
@@ -911,8 +1055,147 @@
    "product_url": null,
    "extraction_method": "playwright",
    "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "folkway-music|fp|northfield nfb f5a big mon adirondack lefty": {
+   "dealer": "Folkway Music",
+   "country_code": "CA",
+   "currency": "CAD",
+   "international": true,
+   "model": "NFB-F5A",
+   "full_name": "Northfield NFB-F5A Big Mon, Adirondack, Lefty",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "folkway-music|fp|northfield nfb f5awn adirondack wide nut amber": {
+   "dealer": "Folkway Music",
+   "country_code": "CA",
+   "currency": "CAD",
+   "international": true,
+   "model": "NFB-F5AWN",
+   "full_name": "Northfield NFB-F5AWN Adirondack, Wide Nut, Amber",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "folkway-music|fp|northfield nfs f5a adirondack lefty": {
+   "dealer": "Folkway Music",
+   "country_code": "CA",
+   "currency": "CAD",
+   "international": true,
+   "model": "NFS-F5A",
+   "full_name": "Northfield NFS-F5A, Adirondack, Lefty",
+   "price": null,
+   "price_history": [],
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-trailer|fp|northfield nfs f5 engelmann top": {
+   "dealer": "Guitar Trailer",
+   "country_code": "JP",
+   "currency": "JPY",
+   "international": true,
+   "model": "NFS-F5",
+   "full_name": "Northfield NFS-F5\u3000Engleman Top!",
+   "price": 570000.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     570000.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "guitar-trailer|fp|northfield nfs f5 red spruce top": {
+   "dealer": "Guitar Trailer",
+   "country_code": "JP",
+   "currency": "JPY",
+   "international": true,
+   "model": "NFS-F5",
+   "full_name": "Northfield NFS-F5\u3000Red Spruce Top\uff01",
+   "price": 570000.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     570000.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "tavily",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "eagle-music-shop|fp|northfield model m a style mandolin with case": {
+   "dealer": "Eagle Music Shop",
+   "country_code": "GB",
+   "currency": "GBP",
+   "international": true,
+   "model": "Model M",
+   "full_name": "Northfield 'Model M' A-Style Mandolin with Case",
+   "price": 2799.0,
+   "price_history": [
+    [
+     "2026-07-29",
+     2799.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "httpx",
+   "confidence": "low",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-08-25",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "eagle-music-shop|fp|northfield quickstep mandola with padded gig bag": {
+   "dealer": "Eagle Music Shop",
+   "country_code": "GB",
+   "currency": "GBP",
+   "international": true,
+   "model": "Quickstep",
+   "full_name": "Northfield Quickstep Mandola with Padded Gig Bag",
+   "price": 3899.0,
+   "price_history": [
+    [
+     "2026-07-29",
+     3899.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "httpx",
+   "confidence": "low",
+   "first_seen": "2026-07-29",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -934,7 +1217,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -956,28 +1239,11 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
-  "musikhaus-saitensprung|fp|big mon|light leather|engelmann|": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "Big Mon",
-   "full_name": "NORTHFIELD The \"Big Mon\" Engelmann in \"Light Leather\"",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "folkway-music|fp|nfm a5|||": {
+  "folkway-music|fp|2024 northfield nfm a5": {
    "dealer": "Folkway Music",
    "country_code": "CA",
    "currency": "CAD",
@@ -990,7 +1256,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-08-01",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1012,7 +1278,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1034,7 +1300,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1057,8 +1323,8 @@
    "confidence": "high",
    "first_seen": "2026-08-04",
    "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-08-25",
+   "missing_scans": 1
   },
   "gryphon-stringed-instruments|url|gryphonstrings.com/products/northfield-artist-series-nfa-f51i-5-bar-bracing-mandolin-new-26203": {
    "dealer": "Gryphon Stringed Instruments",
@@ -1078,7 +1344,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1100,7 +1366,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1122,55 +1388,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-06",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-gallery|fp|f 2|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "F-2",
-   "full_name": "Northfield F-2 Mandolin",
-   "price": 7999.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     7999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-gallery|fp|s series|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "S-Series",
-   "full_name": "Northfield S-Series Mandolin",
-   "price": 7999.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     7299.0
-    ],
-    [
-     "2026-07-24",
-     7999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1192,7 +1410,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1214,7 +1432,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1236,7 +1454,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1258,7 +1476,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1280,7 +1498,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1302,7 +1520,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1324,51 +1542,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-gallery|fp|big mon|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "Big Mon",
-   "full_name": "Northfield Big Mon Mandolin",
-   "price": 10999.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     10999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-gallery|fp|artist series|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "Artist Series",
-   "full_name": "Northfield Artist Series Mandolin",
-   "price": 11999.0,
-   "price_history": [
-    [
-     "2026-07-15",
-     11999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1390,7 +1564,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-16",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1412,7 +1586,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-21",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1434,224 +1608,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-22",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "guitar-gallery|fp|a5 special|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "A5 Special",
-   "full_name": "Northfield A-5 Special Mandolin",
-   "price": 7999.0,
-   "price_history": [
-    [
-     "2026-08-22",
-     7999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-22",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "folkway-music|fp|nfs f5a||adirondack|left handed": {
-   "dealer": "Folkway Music",
-   "country_code": "CA",
-   "currency": "CAD",
-   "international": true,
-   "model": "NFS-F5A",
-   "full_name": "Northfield NFS-F5A, Adirondack, Lefty",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "folkway-music|fp|nfb f5a||adirondack|left handed": {
-   "dealer": "Folkway Music",
-   "country_code": "CA",
-   "currency": "CAD",
-   "international": true,
-   "model": "NFB-F5A",
-   "full_name": "Northfield NFB-F5A Big Mon, Adirondack, Lefty",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "musikhaus-saitensprung|fp|el 2|ox amber|red spruce|pickup electric": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "EL-2",
-   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": "2026-08-24",
-   "missing_scans": 1
-  },
-  "guitar-gallery|fp|f2|||": {
-   "dealer": "Guitar Gallery",
-   "country_code": "AU",
-   "currency": "AUD",
-   "international": true,
-   "model": "F2",
-   "full_name": "Northfield F-2 Mandolin",
-   "price": 7999.0,
-   "price_history": [
-    [
-     "2026-08-24",
-     7999.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "missing_since": "2026-08-24",
-   "missing_scans": 1
-  },
-  "guitar-trailer|fp|nfs f5||engelmann|": {
-   "dealer": "Guitar Trailer",
-   "country_code": "JP",
-   "currency": "JPY",
-   "international": true,
-   "model": "NFS-F5",
-   "full_name": "Northfield NFS-F5 Engleman Top!",
-   "price": 570000,
-   "price_history": [
-    [
-     "2026-08-20",
-     570000
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-19",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "eagle-music-shop|fp|model m||engelmann|": {
-   "dealer": "Eagle Music Shop",
-   "country_code": "GB",
-   "currency": "GBP",
-   "international": true,
-   "model": "Model M",
-   "full_name": "Northfield 'Model M' A-Style Mandolin with Case",
-   "price": 2799.0,
-   "price_history": [
-    [
-     "2026-07-29",
-     2799.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "httpx",
-   "confidence": "low",
-   "first_seen": "2026-07-29",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "eagle-music-shop|fp|quickstep||adirondack|": {
-   "dealer": "Eagle Music Shop",
-   "country_code": "GB",
-   "currency": "GBP",
-   "international": true,
-   "model": "Quickstep",
-   "full_name": "Northfield Quickstep Mandola with Padded Gig Bag",
-   "price": 3899.0,
-   "price_history": [
-    [
-     "2026-07-29",
-     3899.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "httpx",
-   "confidence": "low",
-   "first_seen": "2026-07-29",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "carter-vintage|fp|nfmsp a5|dark cherryburst|italian alpine|": {
-   "dealer": "Carter Vintage",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "NFMSP-A5",
-   "full_name": "Northfield NFMSP-A5 2026, Dark Cherryburst",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-19",
-     3995.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-19",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "musikhaus-saitensprung|fp|wave length||red spruce|shortscale archtop": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "Wave Length",
-   "full_name": "NORTHFIELD \"Wave Length\" Shortscale Archtop Octave Mandoline",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-07-15",
-   "last_seen": "2026-08-24",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "musikhaus-saitensprung|fp|el 2 eleocto|amber|red spruce|electric pickup seymour duncan humbucker": {
-   "dealer": "Musikhaus Saitensprung",
-   "country_code": "CH",
-   "currency": "CHF",
-   "international": true,
-   "model": "EL-2 EleOcto",
-   "full_name": "Northfield EL-2 \"EleOcto\" in Ox Amber",
-   "price": null,
-   "price_history": [],
-   "product_url": null,
-   "extraction_method": "tavily",
-   "confidence": "low",
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
+   "last_seen": "2026-08-25",
    "missing_since": null,
    "missing_scans": 0
   }
