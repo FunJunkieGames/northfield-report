@@ -1,106 +1,106 @@
 {
  "schema": 1,
- "last_processed_run": "2026-09-02-10-00",
+ "last_processed_run": "2026-09-03-10-00",
  "dealers": {
   "Morgan Music": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 39
+   "last_good_scan": "2026-09-03",
+   "good_scans": 40
   },
   "Old Town School Music Store": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "Gryphon Stringed Instruments": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 39
+   "last_good_scan": "2026-09-03",
+   "good_scans": 40
   },
   "Acoustic Music Works": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 39
+   "last_good_scan": "2026-09-03",
+   "good_scans": 40
   },
   "Carter Vintage": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 38
+   "last_good_scan": "2026-09-03",
+   "good_scans": 39
   },
   "The Music Emporium": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 40
+   "last_good_scan": "2026-09-03",
+   "good_scans": 41
   },
   "Dusty Strings": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 40
+   "last_good_scan": "2026-09-03",
+   "good_scans": 41
   },
   "Fiddler's Green Music Shop": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 39
+   "last_good_scan": "2026-09-03",
+   "good_scans": 40
   },
   "Elderly Instruments": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 41
+   "last_good_scan": "2026-09-03",
+   "good_scans": 42
   },
   "Banjo Ben General Store": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 42
+   "last_good_scan": "2026-09-03",
+   "good_scans": 43
   },
   "Penny Lane Music Emporium": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "Retrofret Vintage Guitars": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 39
+   "last_good_scan": "2026-09-03",
+   "good_scans": 40
   },
   "Dry Creek Music": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 40
+   "last_good_scan": "2026-09-03",
+   "good_scans": 41
   },
   "Music Villa": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 38
+   "last_good_scan": "2026-09-03",
+   "good_scans": 39
   },
   "Musikhaus Saitensprung": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "The Fellowship of Acoustics": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 37
+   "last_good_scan": "2026-09-03",
+   "good_scans": 38
   },
   "Guitar Gallery": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "Folkway Music": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "Guitar Trailer": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   },
   "Eagle Music Shop": {
    "first_tracked": "2026-07-24",
-   "last_good_scan": "2026-09-02",
-   "good_scans": 45
+   "last_good_scan": "2026-09-03",
+   "good_scans": 46
   }
  },
  "items": {
@@ -122,7 +122,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -144,7 +144,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -166,7 +166,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -188,7 +188,7 @@
    "extraction_method": "ecwid",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -210,7 +210,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -232,7 +232,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -254,7 +254,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -276,7 +276,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -298,7 +298,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -320,29 +320,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
-   "missing_since": null,
-   "missing_scans": 0
-  },
-  "carter-vintage|fp|northfield nfmsp a5 2026 dark cherryburst": {
-   "dealer": "Carter Vintage",
-   "country_code": "US",
-   "currency": "USD",
-   "international": false,
-   "model": "NFMSP-A5",
-   "full_name": "Northfield NFMSP-A5 2026, Dark Cherryburst",
-   "price": 3995.0,
-   "price_history": [
-    [
-     "2026-07-24",
-     3995.0
-    ]
-   ],
-   "product_url": null,
-   "extraction_method": "playwright",
-   "confidence": "low",
-   "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -364,7 +342,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -386,7 +364,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -408,7 +386,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -430,7 +408,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -452,7 +430,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -474,7 +452,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -496,7 +474,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -518,7 +496,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -540,7 +518,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -562,7 +540,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -584,7 +562,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -606,7 +584,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -628,7 +606,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -645,7 +623,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -662,7 +640,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -679,7 +657,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -713,7 +691,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -735,7 +713,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -757,7 +735,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -779,7 +757,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -801,7 +779,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -823,7 +801,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -845,7 +823,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -867,7 +845,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -884,7 +862,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -901,7 +879,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -918,7 +896,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -935,7 +913,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -957,7 +935,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -979,7 +957,7 @@
    "extraction_method": "tavily",
    "confidence": "low",
    "first_seen": "2026-07-24",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1001,7 +979,7 @@
    "extraction_method": "httpx",
    "confidence": "low",
    "first_seen": "2026-07-29",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1023,7 +1001,7 @@
    "extraction_method": "httpx",
    "confidence": "low",
    "first_seen": "2026-07-29",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1045,7 +1023,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1067,7 +1045,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-07-30",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1084,7 +1062,7 @@
    "extraction_method": "playwright",
    "confidence": "low",
    "first_seen": "2026-08-01",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1106,7 +1084,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1128,7 +1106,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-04",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1150,7 +1128,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1172,7 +1150,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-05",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1194,7 +1172,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-06",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1216,7 +1194,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1238,7 +1216,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-12",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1260,7 +1238,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1282,7 +1260,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1304,7 +1282,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-13",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1326,7 +1304,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1348,7 +1326,7 @@
    "extraction_method": "woocommerce",
    "confidence": "high",
    "first_seen": "2026-08-15",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1370,7 +1348,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-16",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1392,7 +1370,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-21",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1414,7 +1392,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-27",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1436,7 +1414,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-29",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1459,8 +1437,8 @@
    "confidence": "high",
    "first_seen": "2026-08-30",
    "last_seen": "2026-09-02",
-   "missing_since": null,
-   "missing_scans": 0
+   "missing_since": "2026-09-03",
+   "missing_scans": 1
   },
   "morgan-music|url|morganmusic.com/products/northfield-f5s-amber-1": {
    "dealer": "Morgan Music",
@@ -1480,7 +1458,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-30",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1502,7 +1480,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-08-30",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1524,7 +1502,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-01",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1546,7 +1524,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1568,7 +1546,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1590,7 +1568,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1612,7 +1590,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1634,7 +1612,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1656,7 +1634,7 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   },
@@ -1678,7 +1656,29 @@
    "extraction_method": "shopify-json",
    "confidence": "high",
    "first_seen": "2026-09-02",
-   "last_seen": "2026-09-02",
+   "last_seen": "2026-09-03",
+   "missing_since": null,
+   "missing_scans": 0
+  },
+  "carter-vintage|fp|new northfield nfmsp a5 2026 dark cherryburst": {
+   "dealer": "Carter Vintage",
+   "country_code": "US",
+   "currency": "USD",
+   "international": false,
+   "model": "NFMSP-A5",
+   "full_name": "New Northfield NFMSP-A5 2026, Dark Cherryburst",
+   "price": 3995.0,
+   "price_history": [
+    [
+     "2026-07-24",
+     3995.0
+    ]
+   ],
+   "product_url": null,
+   "extraction_method": "playwright",
+   "confidence": "low",
+   "first_seen": "2026-07-24",
+   "last_seen": "2026-09-03",
    "missing_since": null,
    "missing_scans": 0
   }
